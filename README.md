@@ -1,6 +1,8 @@
 # NLP Workshop for ODSC 2017
 Feel free to follow along in this notebook, or download it and run it yourself. Instructions below.
 
+https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
 # Installation instructions
 
 #### clone the repository
